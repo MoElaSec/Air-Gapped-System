@@ -1,8 +1,9 @@
 # Air-Gapped System Anthology 
 **<p align="center">A collection of talks/Papers/Articles about Air-Gapped Systems. (+ other talks/Hacks that might help)</p>**
 
----
-### Contents
+<br>
+
+### Contents:
 * [All Papers](#papers)
   -
   -
